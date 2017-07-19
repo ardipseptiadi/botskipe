@@ -1,0 +1,16 @@
+{
+  "name": "botskipe",
+  "version": "1.0.0",
+  "description": "bot for skipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ardi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
